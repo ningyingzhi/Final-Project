@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Audio (recordings, IRs, renders) - share large audio another way
+*.wav
+*.aif
+*.aiff
+*.flac
+*.mp3
+*.m4a
+*.ogg
+code/data/recordings/
+code/data/ir/
+
+# Arduino / Teensy build output
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/

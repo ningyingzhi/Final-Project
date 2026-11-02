@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1180" viewBox="0 0 1700 1180" font-family="Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0NDE4OWE4Zi1mMmU0LTRmZWYtOTQ1Ny1iMzU0NjEwMDc5M2IAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCVFjHqjiTy6oUFd3bBayIwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyOTY0ZWY2ZS1mYzQ0LTQ3ZmEtYmI1NC0zMDFkN2FhNDFhMTRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoHzYy4HbCY1lIix0IrCjh4AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggDw2olOHIQVxm3o81LmFs6vzjewU0uBVyzQ5n8fTxHuWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHXI/5Am+yqX5n+cMS0groYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBEQESzJfB2dqk9df3xfQTRT5Eo/kebtIo0X4G5r9oy5WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjFZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ0MTg5YThmLWYyZTQtNGZlZi05NDU3LWIzNTQ2MTAwNzkzYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjUyOTJmYTgzLTIyMDctNDNkOC1hZTEyLWRhMmZiNDQxM2ZlOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAPDaiU4chBXGbejzUuYWzq/ON7BTS4FXLNDmfx9PEe5aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggqqP9apcYZrB/Ws3Xgz1I62pjc0N0rEznV3qx9Cn90EuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggc/qfELSF/3QLZrKUHurIs56PSQXUC+kf9XDj1fomnXJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAYKZFTidhWXn2JG7TtHowKpLjX9LetFw3W4CiElKB0fNELwZOZGNMLCJ6EpOomHTgCkXd2j/spQLNIl2Gsusgw=</c2pa:manifest></metadata>
+<defs>
+<marker id="ar" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#2563eb"/></marker>
+<marker id="arp" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#7c3aed"/></marker>
+<marker id="ark" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#111"/></marker>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0 L0 0 0 20" fill="none" stroke="#eef1f5" stroke-width="1"/></pattern>
+</defs>
+<rect width="1700" height="1180" fill="#fbfbf8"/><rect width="1700" height="1180" fill="url(#grid)"/>
+<text x="40" y="40" font-size="26" font-weight="700" fill="#111" text-anchor="start">Prototype 1: Module Connections (Hall ID + ESP-NOW + 2 power contacts)</text>
+<text x="40" y="66" font-size="14" font-weight="400" fill="#555" text-anchor="start">Exploded side view. All DSP runs on the Core in stack order. No audio passes through the modules. 2026-11-02</text>
+<rect x="150" y="95" width="470" height="100" rx="8" fill="#f3f4f6" stroke="#222" stroke-width="2"/>
+<text x="636" y="119" font-size="17" font-weight="700" fill="#222" text-anchor="start">Speaker cradle</text>
+<rect x="256.0" y="189" width="18" height="12" rx="2" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<text x="265.0" y="199" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">S</text>
+<rect x="286.0" y="189" width="18" height="12" rx="2" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<text x="295.0" y="199" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">S</text>
+<rect x="316.0" y="189" width="18" height="12" rx="2" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<text x="325.0" y="199" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">S</text>
+<rect x="164" y="190" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="576" y="190" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<text x="636" y="189" font-size="11" font-weight="400" fill="#666" text-anchor="start">bottom: ID SSS, magnets only</text>
+<text x="385.0" y="140" font-size="13" font-weight="600" fill="#444" text-anchor="middle">Owned Bluetooth speaker sits in the cradle</text>
+<text x="385.0" y="161" font-size="12" font-weight="400" fill="#777" text-anchor="middle">(no electronics in the cradle)</text>
+<rect x="150" y="255" width="470" height="140" rx="8" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="636" y="279" font-size="17" font-weight="700" fill="#222" text-anchor="start">Parametric EQ</text>
+<rect x="256.0" y="389" width="18" height="12" rx="2" fill="#ef4444" stroke="#7f1d1d" stroke-width="1"/>
+<text x="265.0" y="399" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">N</text>
+<rect x="286.0" y="389" width="18" height="12" rx="2" fill="#ef4444" stroke="#7f1d1d" stroke-width="1"/>
+<text x="295.0" y="399" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">N</text>
+<rect x="316.0" y="389" width="18" height="12" rx="2" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="3,2"/>
+<rect x="164" y="390" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="576" y="390" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<text x="636" y="389" font-size="11" font-weight="400" fill="#666" text-anchor="start">bottom: ID NN·, pogo pins</text>
+<polygon points="257.0,269 273.0,269 265.0,257" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<polygon points="287.0,269 303.0,269 295.0,257" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<polygon points="317.0,269 333.0,269 325.0,257" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<rect x="164" y="250" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="576" y="250" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="527" y="255" width="16" height="6" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="557" y="255" width="16" height="6" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="531" y="393" width="8" height="14" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="561" y="393" width="8" height="14" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<line x1="535" y1="261" x2="535" y2="393" stroke="#dc2626" stroke-width="2.2"/>
+<line x1="565" y1="261" x2="565" y2="393" stroke="#111" stroke-width="2.2"/>
+<text x="636" y="299" font-size="11" font-weight="400" fill="#666" text-anchor="start">top: 3 Hall sensors, flat pads</text>
+<rect x="350" y="303" width="86" height="44" rx="4" fill="#dcfce7" stroke="#166534" stroke-width="1.5"/>
+<text x="393" y="321" font-size="12" font-weight="700" fill="#166534" text-anchor="middle">XIAO</text>
+<text x="393" y="336" font-size="10" font-weight="400" fill="#166534" text-anchor="middle">ESP32-S3</text>
+<line x1="265.0" y1="269" x2="350" y2="311" stroke="#f59e0b" stroke-width="1"/>
+<line x1="295.0" y1="269" x2="350" y2="311" stroke="#f59e0b" stroke-width="1"/>
+<line x1="325.0" y1="269" x2="350" y2="311" stroke="#f59e0b" stroke-width="1"/>
+<line x1="535" y1="341" x2="436" y2="341" stroke="#dc2626" stroke-width="1.2"/>
+<line x1="565" y1="345" x2="436" y2="345" stroke="#111" stroke-width="1.2"/>
+<circle cx="190" cy="325" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="190" y1="325" x2="190" y2="314" stroke="#333" stroke-width="2"/>
+<text x="190" y="353" font-size="11" font-weight="600" fill="#333" text-anchor="middle">freq</text>
+<circle cx="240" cy="325" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="240" y1="325" x2="240" y2="314" stroke="#333" stroke-width="2"/>
+<text x="240" y="353" font-size="11" font-weight="600" fill="#333" text-anchor="middle">gain</text>
+<circle cx="290" cy="325" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="290" y1="325" x2="290" y2="314" stroke="#333" stroke-width="2"/>
+<text x="290" y="353" font-size="11" font-weight="600" fill="#333" text-anchor="middle">Q</text>
+<line x1="305" y1="325" x2="350" y2="333" stroke="#666" stroke-width="1"/>
+<rect x="150" y="455" width="470" height="140" rx="8" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="636" y="479" font-size="17" font-weight="700" fill="#222" text-anchor="start">Reverb</text>
+<rect x="256.0" y="589" width="18" height="12" rx="2" fill="#ef4444" stroke="#7f1d1d" stroke-width="1"/>
+<text x="265.0" y="599" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">N</text>
+<rect x="286.0" y="589" width="18" height="12" rx="2" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="3,2"/>
+<rect x="316.0" y="589" width="18" height="12" rx="2" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<text x="325.0" y="599" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">S</text>
+<rect x="164" y="590" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="576" y="590" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<text x="636" y="589" font-size="11" font-weight="400" fill="#666" text-anchor="start">bottom: ID N·S, pogo pins</text>
+<polygon points="257.0,469 273.0,469 265.0,457" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<polygon points="287.0,469 303.0,469 295.0,457" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<polygon points="317.0,469 333.0,469 325.0,457" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<rect x="164" y="450" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="576" y="450" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="527" y="455" width="16" height="6" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="557" y="455" width="16" height="6" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="531" y="593" width="8" height="14" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="561" y="593" width="8" height="14" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<line x1="535" y1="461" x2="535" y2="593" stroke="#dc2626" stroke-width="2.2"/>
+<line x1="565" y1="461" x2="565" y2="593" stroke="#111" stroke-width="2.2"/>
+<text x="636" y="499" font-size="11" font-weight="400" fill="#666" text-anchor="start">top: 3 Hall sensors, flat pads</text>
+<rect x="350" y="503" width="86" height="44" rx="4" fill="#dcfce7" stroke="#166534" stroke-width="1.5"/>
+<text x="393" y="521" font-size="12" font-weight="700" fill="#166534" text-anchor="middle">XIAO</text>
+<text x="393" y="536" font-size="10" font-weight="400" fill="#166534" text-anchor="middle">ESP32-S3</text>
+<line x1="265.0" y1="469" x2="350" y2="511" stroke="#f59e0b" stroke-width="1"/>
+<line x1="295.0" y1="469" x2="350" y2="511" stroke="#f59e0b" stroke-width="1"/>
+<line x1="325.0" y1="469" x2="350" y2="511" stroke="#f59e0b" stroke-width="1"/>
+<line x1="535" y1="541" x2="436" y2="541" stroke="#dc2626" stroke-width="1.2"/>
+<line x1="565" y1="545" x2="436" y2="545" stroke="#111" stroke-width="1.2"/>
+<circle cx="190" cy="525" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="190" y1="525" x2="190" y2="514" stroke="#333" stroke-width="2"/>
+<text x="190" y="553" font-size="11" font-weight="600" fill="#333" text-anchor="middle">decay</text>
+<circle cx="240" cy="525" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="240" y1="525" x2="240" y2="514" stroke="#333" stroke-width="2"/>
+<text x="240" y="553" font-size="11" font-weight="600" fill="#333" text-anchor="middle">mix</text>
+<line x1="255" y1="525" x2="350" y2="533" stroke="#666" stroke-width="1"/>
+<rect x="150" y="655" width="470" height="140" rx="8" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="636" y="679" font-size="17" font-weight="700" fill="#222" text-anchor="start">ADSR</text>
+<rect x="256.0" y="789" width="18" height="12" rx="2" fill="#3b82f6" stroke="#1e3a8a" stroke-width="1"/>
+<text x="265.0" y="799" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">S</text>
+<rect x="286.0" y="789" width="18" height="12" rx="2" fill="#ef4444" stroke="#7f1d1d" stroke-width="1"/>
+<text x="295.0" y="799" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">N</text>
+<rect x="316.0" y="789" width="18" height="12" rx="2" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="3,2"/>
+<rect x="164" y="790" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="576" y="790" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<text x="636" y="789" font-size="11" font-weight="400" fill="#666" text-anchor="start">bottom: ID SN·, pogo pins</text>
+<polygon points="257.0,669 273.0,669 265.0,657" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<polygon points="287.0,669 303.0,669 295.0,657" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<polygon points="317.0,669 333.0,669 325.0,657" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<rect x="164" y="650" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="576" y="650" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="527" y="655" width="16" height="6" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="557" y="655" width="16" height="6" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="531" y="793" width="8" height="14" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="561" y="793" width="8" height="14" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<line x1="535" y1="661" x2="535" y2="793" stroke="#dc2626" stroke-width="2.2"/>
+<line x1="565" y1="661" x2="565" y2="793" stroke="#111" stroke-width="2.2"/>
+<text x="636" y="699" font-size="11" font-weight="400" fill="#666" text-anchor="start">top: 3 Hall sensors, flat pads</text>
+<rect x="350" y="703" width="86" height="44" rx="4" fill="#dcfce7" stroke="#166534" stroke-width="1.5"/>
+<text x="393" y="721" font-size="12" font-weight="700" fill="#166534" text-anchor="middle">XIAO</text>
+<text x="393" y="736" font-size="10" font-weight="400" fill="#166534" text-anchor="middle">ESP32-S3</text>
+<line x1="265.0" y1="669" x2="350" y2="711" stroke="#f59e0b" stroke-width="1"/>
+<line x1="295.0" y1="669" x2="350" y2="711" stroke="#f59e0b" stroke-width="1"/>
+<line x1="325.0" y1="669" x2="350" y2="711" stroke="#f59e0b" stroke-width="1"/>
+<line x1="535" y1="741" x2="436" y2="741" stroke="#dc2626" stroke-width="1.2"/>
+<line x1="565" y1="745" x2="436" y2="745" stroke="#111" stroke-width="1.2"/>
+<circle cx="180" cy="725" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="180" y1="725" x2="180" y2="714" stroke="#333" stroke-width="2"/>
+<text x="180" y="753" font-size="11" font-weight="600" fill="#333" text-anchor="middle">A</text>
+<circle cx="220" cy="725" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="220" y1="725" x2="220" y2="714" stroke="#333" stroke-width="2"/>
+<text x="220" y="753" font-size="11" font-weight="600" fill="#333" text-anchor="middle">D</text>
+<circle cx="260" cy="725" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="260" y1="725" x2="260" y2="714" stroke="#333" stroke-width="2"/>
+<text x="260" y="753" font-size="11" font-weight="600" fill="#333" text-anchor="middle">S</text>
+<circle cx="300" cy="725" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="300" y1="725" x2="300" y2="714" stroke="#333" stroke-width="2"/>
+<text x="300" y="753" font-size="11" font-weight="600" fill="#333" text-anchor="middle">R</text>
+<rect x="330" y="715" width="20" height="20" rx="4" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+<text x="340" y="753" font-size="11" font-weight="600" fill="#333" text-anchor="middle">gate</text>
+<line x1="352" y1="725" x2="350" y2="733" stroke="#666" stroke-width="1"/>
+<rect x="150" y="855" width="470" height="215" rx="8" fill="#fff7ed" stroke="#222" stroke-width="2.5"/>
+<text x="636" y="879" font-size="17" font-weight="700" fill="#222" text-anchor="start">Core (on the ground)</text>
+<polygon points="257.0,869 273.0,869 265.0,857" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<polygon points="287.0,869 303.0,869 295.0,857" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<polygon points="317.0,869 333.0,869 325.0,857" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+<rect x="164" y="850" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="576" y="850" width="30" height="10" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<rect x="527" y="855" width="16" height="6" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<rect x="557" y="855" width="16" height="6" rx="1" fill="#d4a017" stroke="#7a5c00" stroke-width="1"/>
+<text x="636" y="899" font-size="11" font-weight="400" fill="#666" text-anchor="start">top: 3 Hall sensors, flat pads</text>
+<rect x="170" y="905" width="170" height="80" rx="5" fill="#dbeafe" stroke="#1e3a8a" stroke-width="1.5"/>
+<text x="255" y="929" font-size="14" font-weight="700" fill="#1e3a8a" text-anchor="middle">Teensy 4.1</text>
+<text x="255" y="947" font-size="12" font-weight="400" fill="#1e3a8a" text-anchor="middle">+ audio shield</text>
+<text x="255" y="967" font-size="11" font-weight="400" fill="#1e3a8a" text-anchor="middle">all DSP, in stack order</text>
+<rect x="390" y="905" width="104" height="48" rx="4" fill="#dcfce7" stroke="#166534" stroke-width="1.5"/>
+<text x="442" y="924" font-size="11" font-weight="700" fill="#166534" text-anchor="middle">XIAO (Core)</text>
+<text x="442" y="940" font-size="10" font-weight="400" fill="#166534" text-anchor="middle">ESP-NOW receiver</text>
+<line x1="340" y1="921" x2="390" y2="921" stroke="#166534" stroke-width="1.6"/>
+<line x1="390" y1="935" x2="340" y2="935" stroke="#166534" stroke-width="1.6"/>
+<text x="365.0" y="915" font-size="10" font-weight="700" fill="#166534" text-anchor="middle">UART</text>
+<rect x="390" y="973" width="124" height="44" rx="4" fill="#ede9fe" stroke="#5b21b6" stroke-width="1.5"/>
+<text x="452" y="992" font-size="11" font-weight="700" fill="#5b21b6" text-anchor="middle">BT transmitter</text>
+<text x="452" y="1007" font-size="10" font-weight="400" fill="#5b21b6" text-anchor="middle">KCX_BT_EMITTER</text>
+<line x1="340" y1="975" x2="390" y2="995" stroke="#7c3aed" stroke-width="1.6"/>
+<text x="346" y="969" font-size="10" font-weight="600" fill="#7c3aed" text-anchor="start">line out</text>
+<line x1="265.0" y1="869" x2="290" y2="905" stroke="#f59e0b" stroke-width="1"/>
+<line x1="295.0" y1="869" x2="290" y2="905" stroke="#f59e0b" stroke-width="1"/>
+<line x1="325.0" y1="869" x2="290" y2="905" stroke="#f59e0b" stroke-width="1"/>
+<line x1="535" y1="861" x2="535" y2="1050" stroke="#dc2626" stroke-width="2.2"/>
+<line x1="565" y1="861" x2="565" y2="1050" stroke="#111" stroke-width="2.2"/>
+<line x1="338" y1="985" x2="338" y2="1050" stroke="#dc2626" stroke-width="1.4"/>
+<line x1="338" y1="1050" x2="535" y2="1050" stroke="#dc2626" stroke-width="1.4"/>
+<text x="344" y="1045" font-size="10" font-weight="700" fill="#dc2626" text-anchor="start">VIN 5 V</text>
+<rect x="180" y="1003" width="20" height="20" rx="4" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+<text x="190" y="1041" font-size="11" font-weight="600" fill="#333" text-anchor="middle">wave</text>
+<rect x="222" y="1005" width="30" height="16" rx="3" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/>
+<text x="237" y="1041" font-size="11" font-weight="600" fill="#333" text-anchor="middle">on/off</text>
+<circle cx="270" cy="1013" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="270" y1="1013" x2="270" y2="1002" stroke="#333" stroke-width="2"/>
+<text x="270" y="1041" font-size="11" font-weight="600" fill="#333" text-anchor="middle">vol</text>
+<circle cx="306" cy="1013" r="13" fill="#e5e7eb" stroke="#333" stroke-width="1.5"/><line x1="306" y1="1013" x2="306" y2="1002" stroke="#333" stroke-width="2"/>
+<text x="306" y="1041" font-size="11" font-weight="600" fill="#333" text-anchor="middle">pitch</text>
+<line x1="40" y1="945" x2="170" y2="945" stroke="#111" stroke-width="2" marker-end="url(#ark)"/>
+<text x="40" y="935" font-size="12" font-weight="700" fill="#111" text-anchor="start">USB from Mac</text>
+<text x="40" y="967" font-size="10" font-weight="400" fill="#666" text-anchor="start">(power bank later)</text>
+<path d="M436,317 L598,317" fill="none" stroke="#2563eb" stroke-width="1.8" stroke-dasharray="7,5"/>
+<path d="M436,517 L598,517" fill="none" stroke="#2563eb" stroke-width="1.8" stroke-dasharray="7,5"/>
+<path d="M436,717 L598,717" fill="none" stroke="#2563eb" stroke-width="1.8" stroke-dasharray="7,5"/>
+<path d="M598,317 L598,830 L442,830 L442,902" fill="none" stroke="#2563eb" stroke-width="1.8" stroke-dasharray="7,5" marker-end="url(#ar)"/>
+<text x="592" y="823" font-size="12" font-weight="700" fill="#2563eb" text-anchor="end">ESP-NOW (wireless): {id, above_id, knobs}</text>
+<path d="M514,995 L990,995 L990,165 L624,165" fill="none" stroke="#7c3aed" stroke-width="2" stroke-dasharray="3,5" marker-end="url(#arp)"/>
+<text x="1006" y="560" font-size="12" font-weight="700" fill="#7c3aed" text-anchor="middle" transform="rotate(90 1006 560)">Bluetooth audio (~100–200 ms)</text>
+<text x="138" y="229" font-size="10" font-weight="600" fill="#888" text-anchor="end">snap</text>
+<line x1="144" y1="210" x2="144" y2="240" stroke="#bbb" stroke-width="1"/>
+<text x="138" y="429" font-size="10" font-weight="600" fill="#888" text-anchor="end">snap</text>
+<line x1="144" y1="410" x2="144" y2="440" stroke="#bbb" stroke-width="1"/>
+<text x="138" y="629" font-size="10" font-weight="600" fill="#888" text-anchor="end">snap</text>
+<line x1="144" y1="610" x2="144" y2="640" stroke="#bbb" stroke-width="1"/>
+<text x="138" y="829" font-size="10" font-weight="600" fill="#888" text-anchor="end">snap</text>
+<line x1="144" y1="810" x2="144" y2="840" stroke="#bbb" stroke-width="1"/>
+<text x="1060" y="110" font-size="16" font-weight="700" fill="#222" text-anchor="start">Face detail (looking down, ~120 × 120 mm module)</text>
+<rect x="1060" y="150" width="240" height="240" rx="10" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="1180" y="140" font-size="13" font-weight="700" fill="#333" text-anchor="middle">TOP face: flat pads</text>
+<circle cx="1088" cy="178" r="13" fill="#444" stroke="#111"/>
+<circle cx="1272" cy="178" r="13" fill="#444" stroke="#111"/>
+<circle cx="1088" cy="362" r="13" fill="#444" stroke="#111"/>
+<circle cx="1272" cy="362" r="13" fill="#444" stroke="#111"/>
+<polygon points="1121,238 1139,238 1130,222" fill="#f59e0b" stroke="#92400e"/>
+<polygon points="1171,238 1189,238 1180,222" fill="#f59e0b" stroke="#92400e"/>
+<polygon points="1221,238 1239,238 1230,222" fill="#f59e0b" stroke="#92400e"/>
+<rect x="1149" y="308" width="22" height="14" rx="2" fill="#d4a017" stroke="#dc2626" stroke-width="2"/>
+<rect x="1189" y="308" width="22" height="14" rx="2" fill="#d4a017" stroke="#111" stroke-width="2"/>
+<text x="1180" y="350" font-size="11" font-weight="700" fill="#333" text-anchor="middle">5 V    GND</text>
+<text x="1180" y="262" font-size="11" font-weight="600" fill="#555" text-anchor="middle">Hall sensors (under the skin)</text>
+<rect x="1350" y="150" width="240" height="240" rx="10" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="1470" y="140" font-size="13" font-weight="700" fill="#333" text-anchor="middle">BOTTOM face: pogo pins</text>
+<circle cx="1378" cy="178" r="13" fill="#444" stroke="#111"/>
+<circle cx="1562" cy="178" r="13" fill="#444" stroke="#111"/>
+<circle cx="1378" cy="362" r="13" fill="#444" stroke="#111"/>
+<circle cx="1562" cy="362" r="13" fill="#444" stroke="#111"/>
+<circle cx="1420" cy="230" r="9" fill="#ef4444" stroke="#111"/>
+<circle cx="1470" cy="230" r="9" fill="#3b82f6" stroke="#111"/>
+<circle cx="1520" cy="230" r="9" fill="none" stroke="#999" stroke-dasharray="3,2"/>
+<circle cx="1450" cy="315" r="6" fill="#d4a017" stroke="#dc2626" stroke-width="2"/>
+<circle cx="1490" cy="315" r="6" fill="#d4a017" stroke="#111" stroke-width="2"/>
+<text x="1470" y="350" font-size="11" font-weight="700" fill="#333" text-anchor="middle">5 V    GND</text>
+<text x="1470" y="262" font-size="11" font-weight="600" fill="#555" text-anchor="middle">ID code magnets (N / S / none)</text>
+<text x="1060" y="420" font-size="12" font-weight="400" fill="#444" text-anchor="start">Corner magnets hold the faces together and set the rotation (alternate N/S).</text>
+<text x="1060" y="438" font-size="12" font-weight="400" fill="#444" text-anchor="start">Keep code spots ≥15 mm from the corner magnets, then check the Hall readings (CAD C2).</text>
+<text x="1060" y="456" font-size="12" font-weight="400" fill="#444" text-anchor="start">Spring-loaded pogo pins on the bottom land on the flat pads on top when the faces snap.</text>
+<text x="1060" y="510" font-size="16" font-weight="700" fill="#222" text-anchor="start">Signal path (computed inside the Core)</text>
+<rect x="1060" y="525" width="66" height="32" rx="5" fill="#fff7ed" stroke="#333" stroke-width="1.3"/>
+<text x="1093.0" y="546" font-size="11" font-weight="600" fill="#222" text-anchor="middle">synth</text>
+<line x1="1126" y1="541" x2="1137" y2="541" stroke="#333" stroke-width="1.5" marker-end="url(#ark)"/>
+<rect x="1140" y="525" width="66" height="32" rx="5" fill="#ffffff" stroke="#333" stroke-width="1.3"/>
+<text x="1173.0" y="546" font-size="11" font-weight="600" fill="#222" text-anchor="middle">level 1</text>
+<line x1="1206" y1="541" x2="1217" y2="541" stroke="#333" stroke-width="1.5" marker-end="url(#ark)"/>
+<rect x="1220" y="525" width="66" height="32" rx="5" fill="#ffffff" stroke="#333" stroke-width="1.3"/>
+<text x="1253.0" y="546" font-size="11" font-weight="600" fill="#222" text-anchor="middle">level 2</text>
+<line x1="1286" y1="541" x2="1297" y2="541" stroke="#333" stroke-width="1.5" marker-end="url(#ark)"/>
+<rect x="1300" y="525" width="66" height="32" rx="5" fill="#ffffff" stroke="#333" stroke-width="1.3"/>
+<text x="1333.0" y="546" font-size="11" font-weight="600" fill="#222" text-anchor="middle">level 3</text>
+<line x1="1366" y1="541" x2="1377" y2="541" stroke="#333" stroke-width="1.5" marker-end="url(#ark)"/>
+<rect x="1380" y="525" width="66" height="32" rx="5" fill="#ffffff" stroke="#333" stroke-width="1.3"/>
+<text x="1413.0" y="546" font-size="11" font-weight="600" fill="#222" text-anchor="middle">line out</text>
+<line x1="1446" y1="541" x2="1457" y2="541" stroke="#333" stroke-width="1.5" marker-end="url(#ark)"/>
+<rect x="1460" y="525" width="66" height="32" rx="5" fill="#ede9fe" stroke="#333" stroke-width="1.3"/>
+<text x="1493.0" y="546" font-size="11" font-weight="600" fill="#222" text-anchor="middle">BT</text>
+<line x1="1526" y1="541" x2="1537" y2="541" stroke="#333" stroke-width="1.5" marker-end="url(#ark)"/>
+<rect x="1540" y="525" width="66" height="32" rx="5" fill="#ede9fe" stroke="#333" stroke-width="1.3"/>
+<text x="1573.0" y="546" font-size="11" font-weight="600" fill="#222" text-anchor="middle">speaker</text>
+<text x="1060" y="580" font-size="12" font-weight="400" fill="#444" text-anchor="start">Levels = the modules stacked bottom to top (e.g. ADSR → Reverb → EQ).</text>
+<text x="1060" y="630" font-size="16" font-weight="700" fill="#222" text-anchor="start">How the Core finds the order</text>
+<text x="1060" y="655" font-size="12" font-weight="400" fill="#333" text-anchor="start">1. Core reads its own top-face Halls: the ID of the block directly above it.</text>
+<text x="1060" y="675" font-size="12" font-weight="400" fill="#333" text-anchor="start">2. Each module sends {my_id, above_id, knobs} every ~50 ms over ESP-NOW.</text>
+<text x="1060" y="695" font-size="12" font-weight="400" fill="#333" text-anchor="start">3. Core links the IDs upward: Core → ADSR → Reverb → EQ → speaker (SSS).</text>
+<text x="1060" y="715" font-size="12" font-weight="400" fill="#333" text-anchor="start">4. A module silent for >200 ms counts as removed, and the chain rebuilds with a short fade.</text>
+<text x="1060" y="780" font-size="16" font-weight="700" fill="#222" text-anchor="start">Legend</text>
+<polygon points="1060,808 1076,808 1068,794" fill="#f59e0b"/>
+<text x="1088" y="805" font-size="12" font-weight="400" fill="#333" text-anchor="start">Linear Hall sensor (49E), read on 3.3 V</text>
+<rect x="1060" y="816" width="16" height="13" rx="2" fill="#ef4444" stroke="#222" stroke-width="1"/>
+<text x="1088" y="827" font-size="12" font-weight="400" fill="#333" text-anchor="start">ID magnet, N</text>
+<rect x="1060" y="838" width="16" height="13" rx="2" fill="#3b82f6" stroke="#222" stroke-width="1"/>
+<text x="1088" y="849" font-size="12" font-weight="400" fill="#333" text-anchor="start">ID magnet, S</text>
+<rect x="1060" y="860" width="16" height="13" rx="2" fill="#444" stroke="#222" stroke-width="1"/>
+<text x="1088" y="871" font-size="12" font-weight="400" fill="#333" text-anchor="start">Holding magnet</text>
+<rect x="1060" y="882" width="16" height="13" rx="2" fill="#d4a017" stroke="#222" stroke-width="1"/>
+<text x="1088" y="893" font-size="12" font-weight="400" fill="#333" text-anchor="start">Power contact (pogo pin / pad)</text>
+<line x1="1060" y1="911" x2="1078" y2="911" stroke="#dc2626" stroke-width="3"/>
+<text x="1088" y="915" font-size="12" font-weight="400" fill="#333" text-anchor="start">5 V rail (passes up through every module)</text>
+<line x1="1060" y1="933" x2="1078" y2="933" stroke="#111" stroke-width="3"/>
+<text x="1088" y="937" font-size="12" font-weight="400" fill="#333" text-anchor="start">GND rail</text>
+<line x1="1060" y1="955" x2="1078" y2="955" stroke="#2563eb" stroke-width="2.5" stroke-dasharray="5,3"/>
+<text x="1088" y="959" font-size="12" font-weight="400" fill="#333" text-anchor="start">ESP-NOW wireless data</text>
+<line x1="1060" y1="977" x2="1078" y2="977" stroke="#7c3aed" stroke-width="2.5" stroke-dasharray="2,3"/>
+<text x="1088" y="981" font-size="12" font-weight="400" fill="#333" text-anchor="start">Bluetooth audio</text>
+<line x1="1060" y1="999" x2="1078" y2="999" stroke="#166534" stroke-width="3"/>
+<text x="1088" y="1003" font-size="12" font-weight="400" fill="#333" text-anchor="start">UART (Core XIAO ↔ Teensy)</text>
+</svg>
