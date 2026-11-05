@@ -6,10 +6,13 @@
 // Use it to: calibrate thresholds, measure signal vs gap, check crosstalk between
 // sensor spots, and check that the pogo connectors' magnets don't fool the sensors.
 // Class link: sampling / quantization (ADC counts -> mV), noise and averaging (lab 1).
-// Hardware: Teensy 4.1 (audio shield can stay on, these pins are free).
-//   Hall 0 out -> A10 (pin 24)    Hall VCC -> 3.3 V (check your part runs at 3.3 V)
-//   Hall 1 out -> A11 (pin 25)    Hall GND -> GND
-//   Hall 2 out -> A12 (pin 26)
+// Hardware: XIAO ESP32-S3 / S3 Plus on its own breadboard (the module's real reader),
+// or Teensy 4.1. Board > XIAO_ESP32S3 picks the XIAO pins automatically.
+//              XIAO ESP32-S3          Teensy 4.1
+//   Hall 0 out  D0 (A0, GPIO1)        A10 (pin 24)
+//   Hall 1 out  D1 (A1, GPIO2)        A11 (pin 25)
+//   Hall 2 out  D2 (A2, GPIO3)        A12 (pin 26)
+//   Hall VCC -> 3V3 (check your part runs at 3.3 V), Hall GND -> GND
 //   Only 1 sensor wired? Set NUM_SENSORS to 1 (unwired pins float and read noise).
 // Serial Monitor @115200, keys:
 //   c = recalibrate (no magnets near!)   r = reset peaks   p = plotter mode on/off
@@ -17,7 +20,11 @@
 // Author: Allen (with Claude)
 
 const int NUM_SENSORS = 3;
-const int HALL_PINS[3] = { A10, A11, A12 };
+#if defined(ARDUINO_ARCH_ESP32)
+const int HALL_PINS[3] = { A0, A1, A2 };     // XIAO D0, D1, D2 (ADC1, OK with WiFi on)
+#else
+const int HALL_PINS[3] = { A10, A11, A12 };  // Teensy pins 24, 25, 26
+#endif
 
 const float VREF_MV  = 3300.0;
 const int   ADC_BITS = 12;
@@ -32,7 +39,13 @@ int   state[3];         // 0 = none, 1 = N, 2 = S
 bool  plotMode = false;
 
 float readMv(int pin) {
-  return analogRead(pin) * VREF_MV / ADC_MAX;   // hardware averaging set in setup
+#if defined(ARDUINO_ARCH_ESP32)
+  uint32_t sum = 0;                             // ESP32: factory-calibrated mV, avg of 16
+  for (int k = 0; k < 16; k++) sum += analogReadMilliVolts(pin);
+  return sum / 16.0;
+#else
+  return analogRead(pin) * VREF_MV / ADC_MAX;   // Teensy: hardware averaging set in setup
+#endif
 }
 
 void calibrate() {
@@ -61,7 +74,9 @@ int classify(int prev, float d) {
 void setup() {
   Serial.begin(115200);
   analogReadResolution(ADC_BITS);
+#if !defined(ARDUINO_ARCH_ESP32)
   analogReadAveraging(16);
+#endif
   delay(500);
   calibrate();
 }
