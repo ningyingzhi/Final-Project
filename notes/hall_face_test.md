@@ -52,3 +52,12 @@ Do this with the XIAO **unplugged** until step 3.
 - Gap at the code spots: ___ mm. Threshold on/off: ___ / ___ mV.
 - Min spacing between code sensors: ___ mm. Min pogo-to-sensor distance: ___ mm.
 - Pogo self-keyed: yes / no. 5 V pin marked: ___.
+
+## 5. Combined test: Core powers the Hall board (both breadboards)
+Diagram: `sketches/hall_link_test_v1.png`. Core runs `04_core_hall_link` (sketch 02 + link), the XIAO keeps `03_hall_id_test`.
+1. Flash the XIAO over USB, check the IDs, then **unplug its USB**. Upload `04_core_hall_link` to the Teensy.
+2. Add 3 wires to the Core board: Teensy VIN → female pogo 5V, Teensy GND → female pogo GND, Teensy pin 0 (RX1) ← XIAO D6 (TX). Male pogo → XIAO 5V / GND.
+3. Snap the pogo pair (no magnets near, it calibrates at boot). Teensy monitor: `link: up`, `above Core: nothing`.
+4. Switch on, place the S / none / N card: sound fades in (ID 11 → triangle). Lift it: fades out. Pull the pogo pair: `link: lost`, silent within ~200 ms.
+
+**Pass:** no clicks on fade, ID stable while the card sits still, link loss detected every time.

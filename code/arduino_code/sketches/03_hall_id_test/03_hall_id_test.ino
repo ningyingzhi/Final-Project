@@ -14,6 +14,9 @@
 //   Hall 2 out  D2 (A2, GPIO3)        A12 (pin 26)
 //   Hall VCC -> 3V3 (check your part runs at 3.3 V), Hall GND -> GND
 //   Only 1 sensor wired? Set NUM_SENSORS to 1 (unwired pins float and read noise).
+// Link to the Core (combined test, sketch 04_core_hall_link): every 50 ms the XIAO
+// also sends "ID,<id>,<d0>,<d1>,<d2>\n" on Serial1, TX = D6 -> Teensy pin 0 (RX1).
+// Stands in for ESP-NOW until P5. Powered from the Core through the pogo pair.
 // Serial Monitor @115200, keys:
 //   c = recalibrate (no magnets near!)   r = reset peaks   p = plotter mode on/off
 //   + / - = threshold up / down 10 mV
@@ -73,6 +76,9 @@ int classify(int prev, float d) {
 
 void setup() {
   Serial.begin(115200);
+#if defined(ARDUINO_ARCH_ESP32)
+  Serial1.begin(115200, SERIAL_8N1, D7, D6);   // RX = D7 (unused), TX = D6 -> Core
+#endif
   analogReadResolution(ADC_BITS);
 #if !defined(ARDUINO_ARCH_ESP32)
   analogReadAveraging(16);
@@ -110,6 +116,16 @@ void loop() {
     mult *= 3;
   }
 
+#if defined(ARDUINO_ARCH_ESP32)
+  static uint32_t lastSend = 0;                 // report to the Core every 50 ms
+  if (millis() - lastSend >= 50) {
+    lastSend = millis();
+    Serial1.printf("ID,%d,%d,%d,%d\n", id, (int)d[0],
+                   NUM_SENSORS > 1 ? (int)d[1] : 0, NUM_SENSORS > 2 ? (int)d[2] : 0);
+  }
+#endif
+
+  if (!Serial) return;                          // no USB host (pogo-powered): skip prints
   static uint32_t last = 0;
   uint32_t period = plotMode ? 20 : 200;
   if (millis() - last < period) return;
